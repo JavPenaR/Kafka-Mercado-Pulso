@@ -2,7 +2,7 @@
 
 Plataforma local de operaciones de comercio con un flujo real de eventos por Apache Kafka. La página principal muestra los pedidos, pagos, inventario y despachos. El visor de Kafka está en **http://localhost:3000/__kafka** y no aparece en la navegación principal.
 
-Manual para estudiantes: [Kafka conectado a una plataforma real](output/pdf/manual_kafka_mercado_pulse_estudiantes.pdf).
+Manual para estudiantes: [Kafka conectado a una plataforma real](manual_kafka_mercado_pulse_estudiantes.pdf).
 
 ## Requisitos
 
